@@ -8,6 +8,8 @@ Setup ini adalah untuk instalasi awal server development project yang dibangun m
 3. PHP Phalcon 2.0.*
 4. Apache HTTP Server
 
+``Untuk database server tidak diinstall di VM karena saya install di host``
+
 ## Kekurangan
 
 1. Belum ada setting VHost Apache
